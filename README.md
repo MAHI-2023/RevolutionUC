@@ -1,5 +1,9 @@
 # Sign Speller (RevolutionUC 23)
 
+![It's time to celebrate](https://user-images.githubusercontent.com/30887274/221422906-1eb58a86-e73f-4ecd-98e8-ca58166f8d45.png)
+
+Friend for pre-lingual deafness, Teacher for hearing impairment!!!
+
 ## Inspiration
 
 When I was in school, there was a friend of mine who started suffering with bilateral hearing loss. She struggled to do basic things like reading in the class. It took 8 years of therapy to speak well. Although she has no speech discrimination ability, but she can hear some sounds. As I grew up, this topic drew my attention. As I researched more about this, there were many facts which were horrifying. It’s when I realized that special people could make use of technology to improve this situation.
