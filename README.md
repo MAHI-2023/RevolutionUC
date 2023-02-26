@@ -60,6 +60,8 @@ As they say, there's always a room for improvements, we see below opportunities 
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/30887274/221423397-9d33b272-24a6-40ab-9325-8bc6ab80a403.gif)
 
+Click here for [end to end output](https://youtu.be/thKNhYenD9o)
+
 ## Try it out
  [GCP](videotoaslapprun-f2c4xcgofq-ue.a.run.app)
  [Azure](signspeller.azurewebsites.net)
