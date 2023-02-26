@@ -18,6 +18,13 @@ How we built it
 
 We are using Streamlite to build interactive front end. Python code fetches the video URL, given by the user. It extracts the subtitles and converts them into American Sign Language (ASL). We deployed our application on Azure and Google Cloud. We also maintained a collaborative GitHub Global Campus history.
 
+## Overview
+
+
+<img width="1005" alt="Screen Shot 2023-02-26 at 8 19 06 AM" src="https://user-images.githubusercontent.com/30887274/221423006-06c3d054-ad12-48a8-991c-270ad45d10cc.png">
+
+
+
 ## Challenges we ran into
 
 We had to troubleshoot the deployment issues we faced in Azure and we were successfully able to overcome it. Web app is also deployed on Google Cloud Platform with the help of docker. We faced challenges while dockerizing the web app.
