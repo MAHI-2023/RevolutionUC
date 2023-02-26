@@ -23,7 +23,7 @@ We are using Streamlite to build interactive front end. Python code fetches the 
 
 <img width="1005" alt="Screen Shot 2023-02-26 at 8 19 06 AM" src="https://user-images.githubusercontent.com/30887274/221423006-06c3d054-ad12-48a8-991c-270ad45d10cc.png">
 
-
+The hack starts with a video URL as an input. Then subtitles are fetched and converted into sign language. Output is displayed on the web app.
 
 ## Challenges we ran into
 
