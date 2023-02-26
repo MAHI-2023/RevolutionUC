@@ -5,6 +5,7 @@ import os
 from os.path import join
 import matplotlib.pyplot as plt
 import numpy as np
+import streamlit as st
 
 def find_files(filename, search_path):
     """
@@ -76,4 +77,5 @@ def display_speech_image(speech_in_images):
         plt.axis('off')
         plt.imshow(blank_image, aspect='equal')
         word_count += 1
-    plt.show()
+    #plt.show()
+    st.pyplot()
