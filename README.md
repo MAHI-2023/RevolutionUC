@@ -14,7 +14,8 @@ There are two types of output once we play a video on our application.
 
 It will show the subtitles of YouTube content in text format.
 It displays American Sign Language (ASL) of the respective content.
-How we built it
+
+## How we built it
 
 We are using Streamlite to build interactive front end. Python code fetches the video URL, given by the user. It extracts the subtitles and converts them into American Sign Language (ASL). We deployed our application on Azure and Google Cloud. We also maintained a collaborative GitHub Global Campus history.
 
